@@ -8,3 +8,6 @@ git add README.md
 git commit -m "Updated README with my name"
 
 git push
+
+
+dotnet --version
