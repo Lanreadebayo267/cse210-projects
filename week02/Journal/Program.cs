@@ -68,3 +68,9 @@ class Program
         }
     }
 }
+
+// *** Exceeds Requirements ***
+// - Entries now include a 'Tag' for categorization.
+// - Journal data is saved and loaded using JSON format with System.Text.Json.
+// - This allows structured, expandable, and human-readable storage.
+// - File format is now compatible with modern applications.
